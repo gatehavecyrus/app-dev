@@ -1,14 +1,15 @@
 # app-dev
 MY FIRST REPOSITORY
-
+```
 {
   "firstName": "JohnCyrus",
   "lastName": "Florendo"
 }
+```
+## My favorite series/movie
 
-## my favorite series/movie
-** series name:  SouthPark
-** Genre:** 
-==adult animated,sitcom,satire,dark comedy==
-** Main Characters:**
-==Stan Marsh,Kyle Broflovski,Eric Cartman,Kenny McCormick==
+Series Name:  SouthPark
+---
+Genre: Adult animated,sitcom,satire,dark comedy
+---
+Main Characters: Stan Marsh,Kyle Broflovski,Eric Cartman,Kenny McCormick

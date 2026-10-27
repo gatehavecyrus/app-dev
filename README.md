@@ -8,5 +8,7 @@ MY FIRST REPOSITORY
 
 ## my favorite series/movie
 ** series name:  SouthPark
-** Genre: adult animated sitcom, satire, and dark comedy
-** Main Characters: Stan Marsh, Kyle Broflovski, Eric Cartman, Kenny McCormick
+** Genre:** 
+==adult animated sitcom, satire, and dark comedy==
+** Main Characters:**
+==Stan Marsh, Kyle Broflovski, Eric Cartman, Kenny McCormick==

@@ -13,3 +13,5 @@ Series Name:  SouthPark
 Genre: Adult animated,sitcom,satire,dark comedy
 ---
 Main Characters: Stan Marsh,Kyle Broflovski,Eric Cartman,Kenny McCormick
+---
+Series Rating :star: :star: :star: :star:
